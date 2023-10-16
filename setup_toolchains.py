@@ -13,6 +13,11 @@ _AVAILABLE_TOOLCHAINS = {
             'platform_arch': 'x86_64',
             'tool_prefix': 'x86_64-buildroot-linux-gnu',
         },
+        '2023.08-1': {
+            'sha256': 'e896274d4c540a45da02c1a167264116314b5e3afd298b79f28554b0f4eb498d',
+            'platform_arch': 'x86_64',
+            'tool_prefix': 'x86_64-buildroot-linux-gnu',
+        },
     },
     'x86-64-core-i7': {
         '2020.08-1': {
